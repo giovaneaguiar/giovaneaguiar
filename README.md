@@ -1,5 +1,5 @@
 <h4>  E aí, suave? :sunglasses: </h4>
-<h4> Estou cursando Sistemas de Informação :computer:</h4>
+<h4>  Cursando Sistemas de Informação :computer:</h4>
 
 <!--
 **giovaneaguiar/giovaneaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
