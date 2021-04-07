@@ -1,6 +1,6 @@
 <h3>  E aí, suave? :sunglasses: </h3> 
 <h2>Estou cursando Sistemas de Informação :chart:</h2>
-<h2>Focado em desenvolver front-end :computer: </h2>
+<h2>Focado em desenvolver Front-end :computer: </h2>
 
 
 <h2> Minhas Habilidades </h2>
