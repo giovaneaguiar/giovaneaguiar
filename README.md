@@ -1,6 +1,6 @@
 <h3>  What's up! :sunglasses: </h3> 
-<h2> Information Systems Student :bar_chart:</h2>
-<h2> Front-end Developer :computer: </h2>
+<h2> Information Systems Student!</h2>
+<h2> Front-end Developer!</h2>
 
 
 <h2> My Skills </h2>
