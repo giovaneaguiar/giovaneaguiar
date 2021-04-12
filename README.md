@@ -15,7 +15,7 @@
 
 <h2> Aprendendo </h2>
 <h3><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" alt="rails" width="32" height="32"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="rails" width="32" height="32"></img>
+<img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="rails" width="32" height="32"></img>
 </h3>
 
 
