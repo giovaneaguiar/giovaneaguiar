@@ -1,4 +1,4 @@
-<h3> What's up! :sunglasses: </h3> 
+<h3> What’s going on? :sunglasses: </h3> 
 <h2> My Skills </h2>
 <h3> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="rails" width="30" height="30"></img>
 <img src="https://storagemisellf.blob.core.windows.net/images/logo/skills/css-logo.png" alt="rails" width="30" height="30"></img>
