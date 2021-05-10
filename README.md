@@ -12,7 +12,7 @@
 <h3><img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" alt="rails" width="32" height="32"></img>
 <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="rails" width="32" height="32"></img>
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="rails" width="32" height="32"></img>
+<img src="https://www.pinclipart.com/picdir/big/53-534873_vector-steam-java-developer-java-icon-png-clipart.png" alt="rails" width="35" height="35"></img>
 </h3>
 
 
