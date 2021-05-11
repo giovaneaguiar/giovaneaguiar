@@ -11,7 +11,7 @@
 <h2> Learning  </h2>
 <h3><img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" alt="rails" width="32" height="32"></img>
-<img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" alt="rails" width="60" height="34"></img>
+<img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" alt="rails" width="64" height="38"></img>
 </h3>
 
 
