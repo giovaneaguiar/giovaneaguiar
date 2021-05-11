@@ -3,7 +3,7 @@
 <h3> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="rails" width="30" height="30"></img>
 <img src="https://storagemisellf.blob.core.windows.net/images/logo/skills/css-logo.png" alt="rails" width="30" height="30"></img>
 <img src="https://coursekaro.in/wp-content/uploads/2019/10/ck-javascript.png" alt="rails" width="34" height="31"></img>
-<img src="https://icon-library.com/images/c-programming-icon/c-programming-icon-14.jpg" alt="rails" width="30" height="30"></img>
+<img src="https://icon-library.com/images/c-programming-icon/c-programming-icon-14.jpg" alt="rails" width="32" height="32"></img>
 
 </h3>
 
