@@ -12,7 +12,7 @@
 <h3>
  <img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" alt="rails" width="32" height="32"></img>
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" alt="rails" width="30" height="45" ></img>
+<img src="https://www.flaticon.com/svg/vstatic/svg/331/331396.svg?token=exp=1620784545~hmac=b5bd1c3a565dcf2ef10c049138868b66" alt="rails" width="35" height="35" ></img>
 </h3>
 
 <!--
