@@ -13,7 +13,7 @@
  <img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" alt="rails" width="32" height="32"></img>
 <img src="https://www.flaticon.com/svg/vstatic/svg/331/331396.svg?token=exp=1620784545~hmac=b5bd1c3a565dcf2ef10c049138868b66" alt="rails" width="33" height="33" ></img>
-<img src="https://image.flaticon.com/icons/png/512/4494/4494740.png" alt="rails" width="32" height="32"></img>
+<img src="https://image.flaticon.com/icons/png/512/4494/4494740.png" alt="rails" width="31" height="31"></img>
 </h3>
 
 <!--
