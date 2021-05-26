@@ -3,7 +3,7 @@
 <h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="rails" width="38" height="38"></img>
 <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" alt="rails" width="40" height="40"></img>
 <img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="rails" width="40" height="40"></img>
-<img src="https://lh3.googleusercontent.com/proxy/qBEIv83S1EBTb008MeF7ZGpXUW-V4_KxJZjZU5CAWzEmfw6kdoz84DEo2R8y3JVBQ4WrYjYfJBa6eYWepQ-1oQplWaJluKdH8mbqxmhd8rIochc64Y6mF1KPI5gmfqEp" alt="rails" width="35" height="35"></img>
+<img src="https://www.embarcadero.com/images/logos/logo-page/C++BUIDER_STUDIO_FINAL_ICONS_1024.png" alt="rails" width="33" height="33"></img>
 
 </h3>
 
