@@ -3,7 +3,7 @@
 <h3> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="32" height="32"></img>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="32" height="32"></img>
 <img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" alt="rails" width="33" height="32"></img>
-<img src="https://theegeek.com/wp-content/uploads/2013/08/c++_this_pointer.png" alt="rails" width="35" height="35"></img>
+<img src="http://getdrawings.com/free-icon/c-programming-icon-51.png" alt="rails" width="34" height="34"></img>
 
 </h3>
 
