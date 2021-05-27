@@ -1,9 +1,9 @@
 <h3> What’s going on? :deer: </h3> 
 <h2> My Skills </h2>
-<h3> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="38" height="38"></img>
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="38" height="38"></img>
-<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" alt="rails" width="39" height="38"></img>
-<img src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png" alt="rails" width="34" height="34"></img>
+<h3> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="32" height="32"></img>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="32" height="32"></img>
+<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" alt="rails" width="33" height="32"></img>
+<img src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png" alt="rails" width="32" height="32"></img>
 
 </h3>
 
