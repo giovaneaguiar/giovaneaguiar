@@ -1,3 +1,6 @@
+<h3> Estudante de Sistemas de Informação pela Universidade Federal de Juiz de Fora 🦌
+</h3>
+
 <h2> Conhecimento Intermediário</h2>
 <h3> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="32" height="32"></img>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="32" height="32"></img>
