@@ -1,9 +1,9 @@
 <h3> What’s going on? :deer: </h3> 
 <h2> My Skills </h2>
-<h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="rails" width="38" height="38"></img>
-<img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" alt="rails" width="40" height="40"></img>
-<img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="rails" width="40" height="40"></img>
-<img src="https://www.embarcadero.com/images/logos/logo-page/C++BUIDER_STUDIO_FINAL_ICONS_1024.png" alt="rails" width="33" height="33"></img>
+<h3> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="38" height="38"></img>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="38" height="38"></img>
+<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" alt="rails" width="40" height="39"></img>
+<img src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png" alt="rails" width="34" height="34"></img>
 
 </h3>
 
