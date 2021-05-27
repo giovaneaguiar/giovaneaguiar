@@ -1,7 +1,7 @@
-<h3> Estudante de Sistemas de Informação pela Universidade Federal de Juiz de Fora 🦌
+<h3> Estudante de Sistemas de Informação pela Universidade Federal de Juiz de Fora.
 </h3>
 
-<h2> Conhecimento Intermediário</h2>
+<h2> Nível Intermediário</h2>
 <h3> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="32" height="32"></img>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="32" height="32"></img>
 <img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png" alt="rails" width="33" height="32"></img>
@@ -11,7 +11,7 @@
 </h3>
 
 
-<h2> Conhecimento Básico  </h2>
+<h2> Nível Básico  </h2>
 <h3>
  <img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" alt="rails" width="31" height="31"></img>
