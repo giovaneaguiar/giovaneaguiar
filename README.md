@@ -12,7 +12,6 @@
 <h3>
  <img src="https://i.dlpng.com/static/png/6847681_preview.png" alt="rails" width="32" height="32"></img>
  <img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
- <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width:"32" height="32">
 <img src="https://img.portalgsti.com.br/9FnpsHaxsnvzVcGWCd_Ub_oq-jE=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/07/26/uml.png" alt="rails" width="36" height="36">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="rails" width="30" height="30"></img></img>
 </img>
