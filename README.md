@@ -1,4 +1,5 @@
-
+[![Linkedin Badge](https://img.shields.io/badge/-Giovane%20Aguiar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-aguiar/)](ttps://www.linkedin.com/in/giovane-aguiar/) 
+[![Gmail Badge](https://img.shields.io/badge/-giovaneaguiar@ice.ufjf.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaneaguiar@ice.ufjf.br)](mailto:giovaneaguiar@ice.ufjf.br)
 <!--
 **giovaneaguiar/giovaneaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
