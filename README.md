@@ -14,7 +14,7 @@
  <img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
  <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="rails" width="30" height="30"></img>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="rails" width="30" height="30"></img></img>
-<img src="https://img.portalgsti.com.br/9FnpsHaxsnvzVcGWCd_Ub_oq-jE=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/07/26/uml.png" alt="rails" width="35" height="35"></img></img>
+<img src="https://i.pinimg.com/originals/7f/bb/01/7fbb01901a3dd4ed50aa786bc98e0450.png" alt="rails" width="33" height="33"></img></img>
 </img>
 
 </h3>
