@@ -13,7 +13,7 @@
 <h3>
  <img src="https://br.vuejs.org//images/logo.png" alt="rails" width="31" height="31"></img>
  <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="rails" width="30" height="30"></img>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="rails" width="31" height="31"></img></img>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="rails" width="30" height="30"></img></img>
 </img>
 
 </h3>
