@@ -1,7 +1,7 @@
 ## Giovane Aguiar
 - Cursando Sistemas de Informação
 - Bolsista pela UFJF no Projeto SIPlanWeb
-- Estagiário
+
 
 ## Conecte-se comigo
 
