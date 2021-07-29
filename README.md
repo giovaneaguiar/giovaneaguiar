@@ -8,7 +8,7 @@
 
   
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" style="max-width:100%;">
 </a>
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
