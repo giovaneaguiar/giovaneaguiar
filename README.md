@@ -7,23 +7,23 @@
 
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/html5.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vue" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/html5.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/css3.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vue" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/css3.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/javascript.svg" style="max-width:100%;">
+<img align="center" alt="giovane-javascript" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/javascript.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-c" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/c.svg" style="max-width:100%;">
+<img align="center" alt="giovane-c" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/c.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/vuedotjs.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vue" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/vuedotjs.svg" style="max-width:100%;">
 </a>
 
 
@@ -32,30 +32,30 @@
 ## Estudando
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" style="max-width:100%;">
+<img align="center" alt="giovane-php" height="37" width="47" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/ubuntu.svg" style="max-width:100%;">
+<img align="center" alt="giovane-ubuntu" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/ubuntu.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="33" width="43" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
+<img align="center" alt="giovane-java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
 </a>
 
 
 ## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" style="max-width:100%;">
 </a>
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" style="max-width:100%"
 </a> 
   
 
