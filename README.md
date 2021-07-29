@@ -4,10 +4,16 @@
 
 ## Conhecimentos
 
-
-
 <a href="#" target="_blank">
 <img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/vuedotjs.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/html5.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/css3.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
@@ -18,9 +24,7 @@
 <img align="center" alt="giovane-c" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/c.svg" style="max-width:100%;">
 </a>
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="33" width="43" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
-</a>
+
 
 
 ## Estudando
@@ -37,10 +41,9 @@
 <img align="center" alt="giovane-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/ubuntu.svg" style="max-width:100%;">
 </a>
 
-
-
-
-
+<a href="#" target="_blank">
+<img align="center" alt="giovane-java" height="33" width="43" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
+</a>
 
 
 ## Conecte-se comigo
@@ -52,6 +55,8 @@
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
 <img align="center" alt="giovane-email" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" style="max-width:100%"
 </a> 
+  
+
 
 
 
