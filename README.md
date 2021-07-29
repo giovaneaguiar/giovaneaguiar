@@ -2,11 +2,40 @@
 - Cursando Sistemas de Informação
 - Bolsista pela UFJF no Projeto SIPlanWeb
 
+## Conhecimentos
+
+
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/vuedotjs.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/javascript.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-c" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/c.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-git" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/git.svg" style="max-width:100%;">
+</a>
+
+
+
+
+
+
+
+
 
 ## Conecte-se comigo
 
-
-  
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
 <img align="center" alt="giovane-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" style="max-width:100%;">
 </a>
