@@ -4,9 +4,7 @@
 
 ## Conhecimentos
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/vuedotjs.svg" style="max-width:100%;">
-</a>
+
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/html5.svg" style="max-width:100%;">
@@ -22,6 +20,10 @@
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-c" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/c.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-vue" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/vuedotjs.svg" style="max-width:100%;">
 </a>
 
 
