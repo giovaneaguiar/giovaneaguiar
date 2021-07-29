@@ -19,22 +19,22 @@
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
+<img align="center" alt="giovane-java" height="33" width="43" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
 </a>
 
 
 ## Estudando
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/php.svg" style="max-width:100%;">
+<img align="center" alt="giovane-php" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-linux" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/ubuntu.svg" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-git" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/git.svg" style="max-width:100%;">
+<img align="center" alt="giovane-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/ubuntu.svg" style="max-width:100%;">
 </a>
 
 
