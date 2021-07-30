@@ -56,7 +56,7 @@
 </a>
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" height="28" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" style="max-width:100%"
 </a> 
 
 <a href="https://replit.com/@vaneagr" target="_blank">
