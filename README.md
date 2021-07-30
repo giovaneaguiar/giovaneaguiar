@@ -58,7 +58,7 @@
 </a>
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="26" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
 </a> 
 
  
