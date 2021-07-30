@@ -46,7 +46,7 @@
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vue" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
 </a>
 
 
