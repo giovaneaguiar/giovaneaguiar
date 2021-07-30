@@ -34,19 +34,19 @@
 
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-php" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-postgresql" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="29" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-java" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-ubuntu" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
+<img align="center" alt="giovane-ubuntu" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
 </a>
 
 
@@ -54,11 +54,11 @@
 ## Como me encontrar
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" height="31" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
 </a> 
 
  
