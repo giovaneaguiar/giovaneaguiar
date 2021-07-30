@@ -1,6 +1,6 @@
 ## Giovane Aguiar
-- Cursando Sistemas de Informação
-- Bolsista pela UFJF no Projeto SIPlanWeb
+- Cursando Sistemas de Informação pela Universidade Federal de Juiz de Fora
+- Bolsista pela  no Projeto SIPlanWeb: Plano-Departamental-2.0
 
 <!-- ## Conhecimentos
 
