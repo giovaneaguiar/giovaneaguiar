@@ -29,7 +29,7 @@
 
 -->
 
-## Estudando
+## Atualmente estou aprendendo
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-php" height="37" width="47" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" style="max-width:100%;">
@@ -49,7 +49,7 @@
 
 
 
-## Conecte-se comigo
+## Como me encontrar
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
 <img align="center" alt="giovane-linkedin" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" style="max-width:100%;">
