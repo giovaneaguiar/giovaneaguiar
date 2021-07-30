@@ -31,20 +31,22 @@
 
 ## Atualmente estou aprendendo
 
+
+
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" height="37" width="47" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" style="max-width:100%;">
+<img align="center" alt="giovane-php" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-postgresql" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/java.svg" style="max-width:100%;">
+<img align="center" alt="giovane-java" height="29" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-ubuntu" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/ubuntu.svg" style="max-width:100%;">
+<img align="center" alt="giovane-ubuntu" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
 </a>
 
 
@@ -52,18 +54,15 @@
 ## Como me encontrar
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="28" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/gmail.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" height="26" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
 </a> 
 
-<a href="https://replit.com/@vaneagr" target="_blank">
-<img align="center" alt="giovane-replit" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/replit.svg" style="max-width:100%"
-</a> 
+ 
   
-
 
 
 
