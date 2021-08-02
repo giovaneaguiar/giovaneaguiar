@@ -1,6 +1,6 @@
 ## Giovane Aguiar
 - Cursando Sistemas de Informação pela Universidade Federal de Juiz de Fora
-- Desenvolvedor Estagiário de Sustentação na SmartNX
+- Desenvolvedor Estagiário de Sustentação na Smart NX
 - Bolsista no Projeto SIPlanWeb: Plano-Departamental
 
 <!-- ## Conhecimentos
