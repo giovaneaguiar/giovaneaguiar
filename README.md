@@ -35,21 +35,24 @@
 
 
 <a href="#" target="_blank">
+<img align="center" alt="giovane-javascript" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
 <img align="center" alt="giovane-php" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-postgresql" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-apache" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-java" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
-</a>
-
 
 
 <a href="#" target="_blank">
