@@ -52,7 +52,7 @@
 
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-ubuntu" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
+<img align="center" alt="giovane-ubuntu" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="max-width:100%;">
 </a>
 
 
