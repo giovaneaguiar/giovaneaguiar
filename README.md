@@ -30,7 +30,7 @@
 
 -->
 
-## Atualmente estou aprendendo
+## Atualmente estou estudando
 
 
 
