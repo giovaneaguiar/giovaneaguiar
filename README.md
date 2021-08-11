@@ -35,7 +35,7 @@
 
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-php" height="46" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
