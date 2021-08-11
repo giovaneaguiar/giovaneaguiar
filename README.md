@@ -43,23 +43,16 @@
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-asterisk" height="33" width="55" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Asterisk_Logo.svg/220px-Asterisk_Logo.svg.png" style="max-width:100%;">
-</a>
-
-<a href="#" target="_blank">
 <img align="center" alt="giovane-js" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vuejs" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
 </a>
-
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-ubuntu" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
+<img align="center" alt="giovane-java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
-
-
 
 
 
