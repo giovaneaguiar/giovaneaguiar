@@ -43,7 +43,7 @@
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-js" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
