@@ -3,34 +3,10 @@
 - Desenvolvedor Estagiário de Sustentação na Smart NX
 - Bolsista no Projeto SIPlanWeb: Plano-Departamental
 
-<!-- ## Conhecimentos
+ ## Atualmente estou estudando
 
 
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/html5.svg" style="max-width:100%;">
-</a>
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/css3.svg" style="max-width:100%;">
-</a>
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-javascript" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/javascript.svg" style="max-width:100%;">
-</a>
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-c" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/c.svg" style="max-width:100%;">
-</a>
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="27" width="37" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/vuedotjs.svg" style="max-width:100%;">
-</a>
-
-
--->
-
-## Atualmente estou estudando
 
 
 
@@ -38,8 +14,13 @@
 <img align="center" alt="giovane-php" height="46" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 </a>
 
+
 <a href="#" target="_blank">
 <img align="center" alt="giovane-postgresql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-bitbucket" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
