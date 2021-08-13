@@ -7,47 +7,39 @@
 
 
 
-
-
-
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-php" height="53" width="63" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 </a>
 
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-postgresql" height="50" width=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" height="45" width=55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="56" width="66" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="max-width:100%;">
-</a>
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="giovane-java" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-js" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
-
-
-
-
-
+<a href="#" target="_blank">
+<img align="center" alt="giovane-vuejs" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
+</a>
 
 
 
 ## Como me encontrar
 
-<a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" style="max-width:100%"
 </a> 
+
+<a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
+<img align="center" alt="giovane-linkedin" height="87" width="97" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
+</a>
 
  
   
