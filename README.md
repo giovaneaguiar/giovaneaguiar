@@ -41,6 +41,7 @@
 <img align="center" alt="giovane-linkedin" height="87" width="97" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
 </a>
 
+
  
   
 
@@ -49,8 +50,10 @@
 
 ##
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&theme=dark&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
  
 [![Linkedin Badge](https://img.shields.io/badge/-Giovane%20Aguiar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-aguiar/)](https://www.linkedin.com/in/giovane-aguiar/)  -
 [![Gmail Badge](https://img.shields.io/badge/-giovaneaguiar@ice.ufjf.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaneaguiar@ice.ufjf.br)](mailto:giovaneaguiar@ice.ufjf.br)
