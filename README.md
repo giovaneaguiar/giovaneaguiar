@@ -17,6 +17,11 @@
 </a>
 
 <a href="#" target="_blank">
+<img align="center" alt="giovane-asterisk" height="40" width="60" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" style="max-width:100%;">
+</a>
+
+
+<a href="#" target="_blank">
 <img align="center" alt="giovane-java" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
 
