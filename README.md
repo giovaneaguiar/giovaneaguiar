@@ -16,9 +16,11 @@
 <img align="center" alt="giovane-postgresql" height="45" width=55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 </a>
 
+<!-- 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-asterisk" height="35" width="55" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" style="max-width:100%;">
-</a>
+</a> 
+-->
 
 
 <a href="#" target="_blank">
