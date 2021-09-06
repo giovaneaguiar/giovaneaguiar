@@ -17,7 +17,7 @@
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-asterisk" height="40" width="60" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" style="max-width:100%;">
+<img align="center" alt="giovane-asterisk" height="35" width="55" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" style="max-width:100%;">
 </a>
 
 
