@@ -31,11 +31,6 @@
 <img align="center" alt="giovane-js" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vuejs" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
-</a>
-
-
 
 ## Como me encontrar
 
