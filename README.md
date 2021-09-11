@@ -35,11 +35,11 @@
 
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
 </a> 
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="87" width="97" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 
