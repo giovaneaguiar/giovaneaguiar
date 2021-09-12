@@ -1,5 +1,6 @@
 ## Giovane Aguiar
 - Cursando Sistemas de Informação pela UFJF
+- Bolsista pela UFJF no projeto SIPlanWeb
 - Desenvolvedor Estagiário na Smart NX
 
  ## Atualmente estou estudando
