@@ -23,9 +23,11 @@
 -->
 
 
+<!-- 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-java" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
+-->
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-js" height="39" width="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
