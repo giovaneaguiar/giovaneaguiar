@@ -1,6 +1,5 @@
 ## Giovane Aguiar
 - Cursando Sistemas de Informação pela UFJF
-- Bolsista pela UFJF no projeto SIPlanWeb
 - Desenvolvedor Estagiário na Smart NX
 
  ## Atualmente estou estudando
@@ -22,23 +21,16 @@
 </a> 
 -->
 
-
-<!-- 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
-</a>
--->
-
 <a href="#" target="_blank">
 <img align="center" alt="giovane-js" height="39" width="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="39" width="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
 </a>
 
-## Como me encontrar
 
+## Como me encontrar
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
 <img align="center" alt="giovane-email" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="max-width:100%"
