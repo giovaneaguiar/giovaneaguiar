@@ -26,7 +26,7 @@
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vim" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-bash" height="49" width="59" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="max-width:100%;">
 </a>
 
 <!-- <a href="#" target="_blank">
