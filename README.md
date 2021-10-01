@@ -22,11 +22,11 @@
 -->
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-js" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-js" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vim" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vim" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="max-width:100%;">
 </a>
 
 
