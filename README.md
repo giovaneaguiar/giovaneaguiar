@@ -15,9 +15,11 @@
 <img align="center" alt="giovane-postgresql" height="46" width=56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 </a>
 
+<!--
 <a href="#" target="_blank">
 <img align="center" alt="giovane-bitbucket" height="44" width=54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="max-width:100%;">
 </a>
+-->
 
 <!-- 
 <a href="#" target="_blank">
