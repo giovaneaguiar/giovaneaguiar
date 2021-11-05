@@ -31,9 +31,6 @@
 <img align="center" alt="giovane-js" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-tomcat" height="51" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" style="max-width:100%;">
-</a>
 
 <!-- <a href="#" target="_blank">
 <img align="center" alt="giovane-ssh" height="59" width="69" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" style="max-width:100%;">
