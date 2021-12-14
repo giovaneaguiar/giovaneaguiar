@@ -1,6 +1,6 @@
 ## Giovane Aguiar
 - Cursando Sistemas de Informação pela UFJF
-- Desenvolvedor Estagiário na Smart NX
+- Desenvolvedor na Smart NX
 
  ## Atualmente estou estudando
 
