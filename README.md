@@ -22,12 +22,13 @@
 -->
 
 <a href="#" target="_blank">
+<img align="center" alt="giovane-js" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
 <img align="center" alt="giovane-asterisk" height="42" width="65" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" style="max-width:100%;">
 </a> 
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-js" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
-</a>
 
 <!-- <a href="#" target="_blank">
 <img align="center" alt="giovane-ssh" height="59" width="69" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" style="max-width:100%;">
