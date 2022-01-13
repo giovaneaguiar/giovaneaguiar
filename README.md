@@ -50,10 +50,8 @@
 <img align="center" alt="giovane-linkedin" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&theme=dark&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
 
+  
 
 <!--
 
