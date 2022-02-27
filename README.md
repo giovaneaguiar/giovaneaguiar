@@ -43,11 +43,11 @@
 ## Como me encontrar
 
 <a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" height="49" width="59" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="max-width:100%"
+<img align="center" alt="giovane-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%"
 </a> 
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
 
 
