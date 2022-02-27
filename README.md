@@ -44,8 +44,8 @@
 
 ## Como me encontrar
 
-<a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
-<img align="center" alt="giovane-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%"
+<a href="mailto:<giovaneaguiar@ice.ufjf.br>" target="_blank">
+<img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%"
 </a> 
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
