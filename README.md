@@ -5,16 +5,16 @@
  ## Atualmente estou estudando
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
+<img align="center" alt="giovane-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width:100%;">
+<img align="center" alt="giovane-php" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 </a>
 
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-postgresql"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 </a>
 
 <!--
@@ -24,7 +24,7 @@
 -->
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%;">
+<img align="center" alt="giovane-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 
 <!-- <a href="#" target="_blank">
@@ -43,7 +43,7 @@
 ## Como me encontrar
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
 </a>
 
  
