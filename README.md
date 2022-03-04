@@ -2,7 +2,7 @@
 - Cursando Sistemas de Informação pela <b><a href="https://www2.ufjf.br/ufjf/">UFJF</a></b>
 - Analista Júnior na <b><a href="https://www.smartnx.com/">Smart NX</a></b>
 
-## Linguagens de Programação
+## Conhecimentos
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
@@ -16,13 +16,13 @@
 <img align="center" alt="giovane-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width:100%;">
 </a>
 
-## Frameworks 
+
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="max-width:100%;">
 </a>
 
-## Banco de Dados
+
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width:100%;">
@@ -32,7 +32,6 @@
 <img align="center" alt="giovane-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%;">
 </a>
 
-## Sistemas Operacionais
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width:100%;">
@@ -42,11 +41,14 @@
 <img align="center" alt="giovane-ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width:100%;">
 </a>
 
-
 ## Como me encontrar
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
 <img align="center" alt="giovane-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
+</a>
+
+<a href="mailto:giovaneaguiar@ice.ufjf.br" target="_blank">
+<img align="center" alt="giovane-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
 </a>
 
 
