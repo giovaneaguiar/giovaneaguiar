@@ -1,12 +1,18 @@
 ## Giovane Aguiar
 - Cursando Sistemas de Informação pela UFJF
 - Desenvolvedor na Smart NX
-
- ## Atualmente estou estudando
+- 
+## Tenho conhecimento
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+</a>
+
+ ## Atualmente estou estudando
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-php" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
@@ -24,9 +30,8 @@
 -->
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
 </a>
-
 <!-- <a href="#" target="_blank">
 <img align="center" alt="giovane-asterisk" height="42" width="65" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" style="max-width:100%;">
 </a> 
