@@ -1,57 +1,53 @@
 ## Giovane Aguiar
-- Cursando Sistemas de Informação pela UFJF
-- Desenvolvedor na Smart NX
-- 
-## Tenho conhecimento
+- Cursando Sistemas de Informação pela <b><a href="https://www2.ufjf.br/ufjf/">UFJF</a></b>
+- Analista Júnior na <b><a href="https://www.smartnx.com/">Smart NX</a></b>
+
+## Linguagens de Programação
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width:100%;">
 </a>
-
- ## Atualmente estou estudando
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-php" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width:100%;">
 </a>
 
+## Frameworks 
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="max-width:100%;">
 </a>
 
-<!--
-<a href="#" target="_blank">
-<img align="center" alt="giovane-bitbucket" height="44" width=54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="max-width:100%;">
-</a>
--->
+## Banco de Dados
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width:100%;">
 </a>
-<!-- <a href="#" target="_blank">
-<img align="center" alt="giovane-asterisk" height="42" width="65" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" style="max-width:100%;">
-</a> 
--->
 
-
-<!-- <a href="#" target="_blank">
-<img align="center" alt="giovane-ssh" height="59" width="69" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" style="max-width:100%;">
+<a href="#" target="_blank">
+<img align="center" alt="giovane-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%;">
 </a>
--->
 
+## Sistemas Operacionais
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width:100%;">
+</a>
 
 
 ## Como me encontrar
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
-<img align="center" alt="giovane-linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+<img align="center" alt="giovane-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
-
- 
 
 
 ##
