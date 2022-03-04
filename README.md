@@ -4,24 +4,10 @@
 
 ## Conhecimentos
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
-</a>
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width:100%;">
 </a>
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width:100%;">
-</a>
-
-
-
-<a href="#" target="_blank">
-<img align="center" alt="giovane-vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="max-width:100%;">
-</a>
-
 
 
 <a href="#" target="_blank">
@@ -29,9 +15,17 @@
 </a>
 
 <a href="#" target="_blank">
-<img align="center" alt="giovane-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%;">
+<img align="center" alt="giovane-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width:100%;">
 </a>
 
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="max-width:100%;">
+</a>
+
+<a href="#" target="_blank">
+<img align="center" alt="giovane-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
+</a>
 
 <a href="#" target="_blank">
 <img align="center" alt="giovane-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width:100%;">
