@@ -27,13 +27,7 @@
 <img align="center" alt="giovane-java" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-linux" height="35" width"45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width:100%;">
-</a>
 
-<a href="#" target="_blank">
-<img align="center" alt="giovane-linux" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="max-width:100%;">
-</a>
 
 
 ## Como me encontrar
@@ -42,9 +36,8 @@
 <img align="center" alt="giovane-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&theme=dark&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
