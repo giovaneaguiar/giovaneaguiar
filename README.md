@@ -35,5 +35,4 @@
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&langs_count=6&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&langs_count=6&theme=dark)
