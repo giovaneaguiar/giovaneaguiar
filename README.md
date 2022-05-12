@@ -27,9 +27,6 @@
 <img align="center" alt="giovane-java" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
 </a>
 
-
-
-
 ## Como me encontrar
 
 <a href="https://www.linkedin.com/in/giovane-aguiar/" target="_blank">
@@ -37,27 +34,6 @@
 </a>
 
 ##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&langs_count=6&theme=dark)
-
-
-
-<!--
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Giovane%20Aguiar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-aguiar/)](https://www.linkedin.com/in/giovane-aguiar/)  -
-[![Gmail Badge](https://img.shields.io/badge/-giovaneaguiar@ice.ufjf.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaneaguiar@ice.ufjf.br)](mailto:giovaneaguiar@ice.ufjf.br)
--->
-<!--
-**giovaneaguiar/giovaneaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
