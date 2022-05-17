@@ -1,5 +1,6 @@
 ## Giovane Aguiar
   - Cursando Sistemas de Informação pela <b><a href="https://www2.ufjf.br/ufjf/">UFJF</a></b>
+ - Desenvolvedor back-end com foco em <b><a href="php.net">PHP</a></b>
  <!-- - Analista de Software Júnior na <b><a href="https://www.smartnx.com/">Smart NX</a></b>
 
 
