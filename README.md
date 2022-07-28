@@ -1,5 +1,5 @@
 ## Giovane Aguiar
-  - Desenvolvedor back-end com foco em <b><a href="https://php.net">PHP</a></b> e <b><a href="https://nodejs.org/en/">NodeJS</a></b>
+  - Desenvolvedor back-end <b><a href="https://php.net">PHP</a></b> e <b><a href="https://nodejs.org/en/">NodeJS</a></b>
   - Cursando Sistemas de Informação pela <b><a href="https://www2.ufjf.br/ufjf/">UFJF</a></b>
                  
  <!-- - Analista de Software Júnior na <b><a href="https://www.smartnx.com/">Smart NX</a></b>
