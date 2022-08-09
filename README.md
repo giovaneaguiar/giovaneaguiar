@@ -1,8 +1,10 @@
 ## Giovane Aguiar
+
+<!--
   - Desenvolvedor back-end <b><a href="https://php.net">PHP</a></b> e <b><a href="https://nodejs.org/en/">NodeJS</a></b>
   - Cursando Sistemas de Informação pela <b><a href="https://www2.ufjf.br/ufjf/">UFJF</a></b>
                  
- <!-- - Analista de Software Júnior na <b><a href="https://www.smartnx.com/">Smart NX</a></b>
+  - Analista de Software Júnior na <b><a href="https://www.smartnx.com/">Smart NX</a></b>
 
 
 <!-- 
@@ -49,7 +51,6 @@
 <img align="center" alt="giovane-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 -->
-##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&theme=dark&langs_count=4)
 
