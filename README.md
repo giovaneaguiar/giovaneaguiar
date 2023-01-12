@@ -52,9 +52,11 @@
 <img align="center" alt="giovane-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
--->
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&hide=javascript,html&theme=dark&langs_count=4)
+
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giovaneaguiar&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
