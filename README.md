@@ -56,7 +56,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&hide=javascript,html&theme=dark&langs_count=4)
 
--->
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giovaneaguiar&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+-->
 
