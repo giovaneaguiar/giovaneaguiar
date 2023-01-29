@@ -57,7 +57,7 @@
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&hide=javascript,html&theme=dark&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&hide=javascript,html&theme=dark&langs_count=4)
 
 
 
