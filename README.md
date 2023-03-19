@@ -3,7 +3,7 @@
  
   - Estudante de Sistemas de Informação pela <b><a href="https://www2.ufjf.br/ufjf/">UFJF</a></b>
                  
-  - Desenolvedor Back-End na <b><a href="https://www.smartnx.com/">Smart NX</a></b>
+  - Desenolvedor Back-End na <b><a href="https://www.smartnx.com.br/">Smart NX</a></b>
 
 
 
