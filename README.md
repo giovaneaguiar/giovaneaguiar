@@ -1,7 +1,6 @@
-## Giovane Aguiar
 
- 
-  - Estudante de Sistemas de Informação pela <b><a href="https://www2.ufjf.br/ufjf/">UFJF</a></b>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E09F7&width=435&lines=Hi%2C+My+name's+Giovane+Aguiar;I'm+a+full-stack+developer)](https://git.io/typing-svg)
+
 
  <!--
  - Desenvolvedor na <b><a href="https://www.smartnx.com.br/">Smart NX</a></b>
