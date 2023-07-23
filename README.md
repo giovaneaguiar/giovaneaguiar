@@ -1,5 +1,5 @@
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E09F7&width=435&lines=Hi%2C+My+name's+Giovane+Aguiar;I'm+a+full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B9F7&width=435&lines=Hi%2C+My+name's+Giovane+Aguiar;I'm+a+full-stack+developer)](https://git.io/typing-svg)
 
 
  <!--
@@ -54,7 +54,7 @@
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&hide=javascript,html&theme=dark&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&hide=javascript,html&theme=prussian&langs_count=4)
 
 
 
