@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi.+My+name's+Giovane+Aguiar.;I'm+a+full-stack+developer.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=Ol%C3%A1.+Meu+nome+%C3%A9+Giovane+Aguiar.;Eu+sou+um+desenvolvedor+full-stack.)](https://git.io/typing-svg)
 
  <!--
  - Desenvolvedor na <b><a href="https://www.smartnx.com.br/">Smart NX</a></b>
@@ -53,8 +52,9 @@
 
 
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=donut-vertical&langs_count=4&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&hide=javascript,html&theme=prussian&langs_count=4)
+
 
 
 
