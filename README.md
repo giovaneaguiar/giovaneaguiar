@@ -51,10 +51,8 @@
 
 
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=donut-vertical&langs_count=4&theme=vue-dark)
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=donut&langs_count=4&theme=vue-dark)
 
 
 
