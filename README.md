@@ -5,9 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&langs_count=6&theme=vue-dark" align="left">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=giovaneaguiar&show_icons=true&theme=vue-dark" width="40%" align="right">
-
--->
+<img src="https://github-readme-stats.vercel.app/api?username=giovaneaguiar&show_icons=true&theme=vue-dark" width="40%" align="right">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=120&section=footer"/>
 
