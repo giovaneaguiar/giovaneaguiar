@@ -5,11 +5,22 @@
 
 ![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&langs_count=6&theme=github_dark" align="left">
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&langs_count=6&theme=github_dark" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=giovaneaguiar&show_icons=true&theme=vue-dark" width="40%" align="right">
 -->
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,azure,figma"/>
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,php,postgres,linux,bash,postman"/>
+  </a>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=203AEC&height=120&section=footer"/>
 
 
