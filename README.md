@@ -12,12 +12,12 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,azure,figma"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,azure"/>
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,php,postgres,linux,bash,postman"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,php,postgres,linux,bash"/>
   </a>
 </p>
 
