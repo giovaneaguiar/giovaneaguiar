@@ -10,6 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=giovaneaguiar&show_icons=true&theme=vue-dark" width="40%" align="right">
 -->
 
+<!--
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,cpp"/>
@@ -20,6 +21,8 @@
     <img src="https://skillicons.dev/icons?i=react,angular,java,azure,figma,linux"/>
   </a>
 </p>
+
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=203AEC&height=120&section=footer"/>
 
