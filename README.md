@@ -5,6 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
 
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=compact&langs_count=6&theme=github_dark" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=giovaneaguiar&show_icons=true&theme=vue-dark" width="40%" align="right">
