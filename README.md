@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=203AEC&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=18&duration=2000&pause=800&color=203AEC&width=435&lines=Hello.+My+name's+Giovane+Aguiar.;I'm+a+full-stack+developer.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&size=24&duration=3000&pause=500&color=203AEC&random=false&width=435&lines=Ol%C3%A1.+Meu+nome+%C3%A9+Giovane+Aguiar.;Sou+um+desenvolvedor+full-stack.)](https://git.io/typing-svg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,java)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,bootstrap,figma,azure,windows,linux)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
 
