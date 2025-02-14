@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,figma,azure,windows,linux)](https://skillicons.dev)
 
-![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
 
 
 <!--
