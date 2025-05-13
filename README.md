@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,vue,java)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,bootstrap,figma,azure,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bootstrap,figma,python,azure,windows,linux)](https://skillicons.dev)
 
 <!-- ![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
 
