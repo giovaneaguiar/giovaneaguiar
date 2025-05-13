@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=18&duration=2000&pause=800&color=203AEC&width=435&lines=Hello.+My+name's+Giovane+Aguiar.;I'm+a+full-stack+developer.)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,vue,java)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,bootstrap,figma,azure,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,bootstrap,figma,azure,windows,linux)](https://skillicons.dev)
 
 <!-- ![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
 
