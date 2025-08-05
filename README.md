@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e9e200&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333bd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=18&duration=2000&pause=800&color=e9e200&width=435&lines=Hello.+My+name's+Giovane+Aguiar.;I'm+a+full-stack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=18&duration=2000&pause=800&color=3333bd&width=435&lines=Hello.+My+name's+Giovane+Aguiar.;I'm+a+full-stack+developer.)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,vue,java,postgres)](https://skillicons.dev)
 
@@ -28,7 +28,7 @@
 
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e9e200&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333bd&height=120&section=footer"/>
 
 
 
