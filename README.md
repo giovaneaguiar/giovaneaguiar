@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,postman,figma,python,azure,windows,linux)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneaguiar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://komarev.com/ghpvc/?username=giovaneaguiar&color=lightgrey&style=for-the-badge)
 
 
